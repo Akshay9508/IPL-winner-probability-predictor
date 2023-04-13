@@ -23,7 +23,7 @@ cities = ['Hyderabad', 'Bangalore', 'Mumbai', 'Indore', 'Kolkata', 'Delhi',
           'Sharjah', 'Mohali', 'Bengaluru']
 
 
-pipe = pickle.load(open('pipe.pkl', 'rb'))
+pipe = pickle.load(open(r'D:\Data Science folders\Github repository\ML Models - End to End Deployment\IPL winner probability predictor\models\pipe.pkl', 'rb'))
 st.title('IPL Win Predictor')
 
 
