@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 pandas==1.2.4
 streamlit==1.8.1
+=======
+streamlit==1.8.1
+sklearn
+scikit-learn==0.24.2
+pandas==1.2.4
+>>>>>>> 756585280b74cf11b5690716555999cfe737dd04
